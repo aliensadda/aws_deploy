@@ -1,8 +1,8 @@
-ASFASDFASDFASDFF# AWS_CodeDeploy_Example
+ASDFASDFADSFASDFASFA     SDFASDFASDFF# AWS_CodeDeploy_Example
 <br />
 Please make sure that you add the following files to your project for this to work
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; appspec.yml
+&nbsp;&nbsp;&nbsp;&nbsp; appspec.yml    
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp; the entire scripts folder
 <br />
